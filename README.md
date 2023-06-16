@@ -1,8 +1,8 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : [NAMA]  
-NIU : [NIU]  
-Sesi : [SESI]  
+Nama : [Tasya Nafisah Kamal]  
+NIU : [460569]  
+Sesi : [2]  
 Secret String : [SECRET_STRING]
 
 ## Checklist Responsi
